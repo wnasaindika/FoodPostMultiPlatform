@@ -1,0 +1,7 @@
+${PODS_ROOT}/Target Support Files/Pods-iosApp/Pods-iosApp-resources.sh
+${PODS_ROOT}/../../shared/src/commonMain/resources/food_post_logo.png
+${PODS_ROOT}/../../shared/src/commonMain/resources/ic-arrow-back.xml
+${PODS_ROOT}/../../shared/src/commonMain/resources/ic_plus.xml
+${PODS_ROOT}/../../shared/src/commonMain/resources/ic_search.xml
+${PODS_ROOT}/../../shared/src/commonMain/resources/img_face_01.webp
+${PODS_ROOT}/../../shared/src/commonMain/resources/img_face_02.webp
